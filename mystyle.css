@@ -1,11 +1,8 @@
 @charset "UTF-8";
-* {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-}
-
 body {
     background-color: azure;
+    font-size: 20px;
+    text-align: center;
 }
 
 main {
@@ -14,4 +11,24 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+img.lado {
+    float: right;
+}
+
+h1 {
+    font-family: Arial, Helvetica;
+    color: navy;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: Arial, Helvetica;
+    color: navy;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
 }
